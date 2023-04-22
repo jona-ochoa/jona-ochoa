@@ -1,23 +1,31 @@
 ---
 
-# Hi Developers!!💚 Soy Jonatan Ochoa, estudiante Full Stack en [Soy Henry](https://www.soyhenry.com)
+# Hi Developers!!💚 Soy ``Jonatan Ochoa``, estudiante Full Stack en [Soy Henry](https://www.soyhenry.com)
 
 ---
 
-### Me apasiona la programación, comence como autodidacta con tutoriales, videos y documentación y quise ir por más. Decidí cambiar mi rumbo ya que mis empleos anteriores no tenian nada que ver con el mundo tecnológico y fijarme el objetivo de convertirme en Programador, ingrese a Henry para evolucionar.
+### Me apasiona la programación, comence como autodidacta con tutoriales, videos y documentación y quise ir por más. Decidí cambiar mi rumbo ya que mis empleos anteriores no tenian nada que ver con el mundo tecnológico y fijarme el objetivo de convertirme en ``Programador``, ingrese a Henry para evolucionar.
 
 ---
 
-#### Mi experiencia en Henry
+## Mi experiencia en Henry
 
-__Modulo 1:__
+# Modulo 1
 
-* Ciencias de la computación 
-* Javascript I 
-* Javascript II 
-* Estructura de Datos I
-* Estructura de Datos II 
-* Estructura de Datos III 
+#### Fundamentos de JavaScript
+
+<div class="hide">
+
+-  [Intro to Computer Science](./01-IntroToCS)
+-  [Javascript Avanzado I](./02-JavaScriptAvanzado-I)
+-  [Javascript Avanzado II](./03-JavaScriptAvanzado-II)
+-  [Estructura de Datos I](./04-EstructuraDeDatos-I)
+-  [Estructura de Datos II](./05-EstructuraDeDatos-II)
+-  [Estructura de Datos III](./06-EstructuraDeDatos-III)
+-  [Algoritmos I](./07-Algoritmos-I)
+-  [Algoritmos II](./08-Algoritmos-II)
+
+</div >
 
 __Modula 2:__
 
