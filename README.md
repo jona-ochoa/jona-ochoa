@@ -44,13 +44,12 @@
 </div >
 
 ### Modulo 2
-<div class="hide">
+
  ```
   <continuara>
   ...Continuara
   </continuara>  
  ```
-</div >
 
 ---
 <br />
