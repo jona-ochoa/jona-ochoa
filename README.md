@@ -10,7 +10,7 @@
 
 ## Mi experiencia en Henry
 
-### Modulo 1
+### Modulo 1 Lógica de Programación
 
 <div class="hide">
 
@@ -25,7 +25,7 @@
 
 </div >
 
-### Modulo 2
+### Modulo 2 Front End
 
 <div class="hide">
 - DOM Document Object Model
@@ -43,7 +43,7 @@
 - React Hooks  
 </div >
 
-### Modulo 2
+### Modulo 3 Back End
 
  ```
   ...Continuara 
