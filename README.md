@@ -28,14 +28,30 @@
 ### Modulo 2
 
 <div class="hide">
-
 - DOM Document Object Model
 - CSS Cascading Style Sheet
 - ES6 EcmaScript 6
-  ...<Continuara>
-
+- AJAX
+- Módulos y Bundlers 
+- React Intro
+- React Estilos
+- React Estados y LifeCycle 
+- React Routing 
+- React Forms 
+- Redux 
+- React Redux 
+- React Hooks  
 </div >
-* ...Continuara
+
+### Modulo 2
+<div class="hide">
+ ```
+  <continuara>
+  ...Continuara
+  </continuara>  
+ ```
+</div >
+
 ---
 <br />
 <img src="https://jonaochoa.vercel.app/static/media/jonacode.3b5e728e432e6b1e1dae.jpg" alt="mi foto jaja" title="Developer javascript" style="border: 10px solid white; width: 300px; height: 300px; border-radius: 50px " />
