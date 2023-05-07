@@ -46,9 +46,7 @@
 ### Modulo 2
 
  ```
-  <continuara>
-  ...Continuara
-  </continuara>  
+  ...Continuara 
  ```
 
 ---
