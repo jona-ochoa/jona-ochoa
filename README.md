@@ -28,6 +28,7 @@
 ### Modulo 2 Front End
 
 <div class="hide">
+ 
 -  DOM Document Object Model
 -  CSS Cascading Style Sheet
 -  ES6 EcmaScript 6
@@ -41,6 +42,7 @@
 -  Redux 
 -  React Redux 
 -  React Hooks  
+ 
 </div >
 
 ### Modulo 3 Back End
