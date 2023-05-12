@@ -44,7 +44,9 @@
 -  React Hooks
 -  Proyecto Integrador de [Rick & Morty](http://rickandmorty-jona.vercel.app)
  
- <iframe src="http://rickandmorty-jona.vercel.app" title="rick-and-morty" />
+<figure class="video_container">
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://rickandmorty-jona.vercel.app" style="border: 1px solid black"></iframe>
+</figure>
  
 </div >
 
