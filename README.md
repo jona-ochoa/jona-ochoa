@@ -42,7 +42,9 @@
 -  Redux 
 -  React Redux 
 -  React Hooks
--  Proyecto Integrador de [Rick & Morty](https://www.soyhenry.com](http://rickandmorty-jona.vercel.app)
+-  Proyecto Integrador de [Rick & Morty](http://rickandmorty-jona.vercel.app)
+ 
+ <iframe src="http://rickandmorty-jona.vercel.app" title="rick-and-morty" />
  
 </div >
 
