@@ -28,19 +28,19 @@
 ### Modulo 2 Front End
 
 <div class="hide">
-- DOM Document Object Model
-- CSS Cascading Style Sheet
-- ES6 EcmaScript 6
-- AJAX
-- Módulos y Bundlers 
-- React Intro
-- React Estilos
-- React Estados y LifeCycle 
-- React Routing 
-- React Forms 
-- Redux 
-- React Redux 
-- React Hooks  
+-  DOM Document Object Model
+-  CSS Cascading Style Sheet
+-  ES6 EcmaScript 6
+-  AJAX
+-  Módulos y Bundlers 
+-  React Intro
+-  React Estilos
+-  React Estados y LifeCycle 
+-  React Routing 
+-  React Forms 
+-  Redux 
+-  React Redux 
+-  React Hooks  
 </div >
 
 ### Modulo 3 Back End
