@@ -43,7 +43,8 @@
 -  React Redux 
 -  React Hooks
 -  Proyecto Integrador de [Rick & Morty](http://rickandmorty-jona.vercel.app)
- 
+<!--  [![Title](Image URL)](Link URL) -->
+  [![Rick and Morty](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2PNgriWT5_Uj7CFmvanxcpBMx_JZn976wNKXxYsgV5A&s)](http://rickandmorty-jona.vercel.app)
 </div >
 
  ```
