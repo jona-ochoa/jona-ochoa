@@ -41,7 +41,8 @@
 -  React Forms 
 -  Redux 
 -  React Redux 
--  React Hooks  
+-  React Hooks
+-  Proyecto Integrador de [Rick & Morty](https://www.soyhenry.com](http://rickandmorty-jona.vercel.app)
  
 </div >
 
