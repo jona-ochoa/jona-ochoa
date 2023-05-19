@@ -47,11 +47,22 @@
   [![Rick and Morty](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2PNgriWT5_Uj7CFmvanxcpBMx_JZn976wNKXxYsgV5A&s)](http://rickandmorty-jona.vercel.app)
 </div >
 
+ 
+### Modulo 3 Back End
+
+<div class="hide">
+ 
+-  Node JS
+-  Web Server
+-  Promises
+-  Advance Promises
+-  Express
+ 
+</div>
+ 
  ```
   ...Continuara 
  ```
- 
-### Modulo 3 Back End
 
 ---
 <br />
