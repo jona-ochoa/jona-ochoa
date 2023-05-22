@@ -57,7 +57,8 @@
 -  Promises
 -  Advance Promises
 -  Express
- 
+-  Async Await
+-  Testing
 </div>
  
  ```
@@ -74,9 +75,10 @@
 
 - Javascript 💛
 - Node JS 💚
+- Express 🤍
 - React 💙
 - Next 🖤
-- Gatsby ❤  
+- Gatsby ❤
 - Figma
 - VS CODE
 - Trello
