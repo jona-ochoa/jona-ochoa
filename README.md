@@ -1,19 +1,13 @@
 ---
 <h1 align="center">Hi 👋, I'm Jonatan Ochoa</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
-## Hi Developers!!💚 Soy ``Jonatan``, estudiante Full Stack en [Henry](https://www.soyhenry.com)
-
+---
+### Hi Developers!!💚 Soy ``Jonatan``, estudiante Full Stack en [Henry](https://www.soyhenry.com)
 ---
 
-### Me apasiona la programación, comence como autodidacta con tutoriales, videos, documentación y plataformas como [freeCodeCamp](https://www.freecodecamp.org/) que me ayudan en mi aprendizaje. Decidí cambiar mi rumbo ya que mis empleos anteriores no tenian nada que ver con el mundo tecnológico y fijarme el objetivo de convertirme en ``Programador``
+###  Lógica de Programación
 
----
-
-## Mi experiencia en Henry
-
-### Modulo 1 Lógica de Programación
-
-<div class="hide">
+<div align="center">
 
 -  Intro to Computer Science
 -  Javascript Avanzado I
@@ -28,7 +22,7 @@
 
 ### Modulo 2 Front End
 
-<div class="hide">
+<div align="center">
  
 -  DOM Document Object Model
 -  CSS Cascading Style Sheet
@@ -51,7 +45,7 @@
  
 ### Modulo 3 Back End
 
-<div class="hide">
+<div align="center">
  
 -  Node JS
 -  Web Server
