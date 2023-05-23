@@ -1,13 +1,17 @@
 ---
+
 <h1 align="center">Hi 👋, I'm Jonatan Ochoa</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
+
 ---
+
 ### Hi Developers!!💚 Soy ``Jonatan``, estudiante Full Stack en [Henry](https://www.soyhenry.com)
+
 ---
 
 ###  Lógica de Programación
 
-<div align="center">
+<div align="left">
 
 -  Intro to Computer Science
 -  Javascript Avanzado I
@@ -22,7 +26,7 @@
 
 ### Modulo 2 Front End
 
-<div align="center">
+<div align="left">
  
 -  DOM Document Object Model
 -  CSS Cascading Style Sheet
@@ -45,7 +49,7 @@
  
 ### Modulo 3 Back End
 
-<div align="center">
+<div align="left">
  
 -  Node JS
 -  Web Server
