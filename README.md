@@ -1,11 +1,11 @@
 ---
 
-<h1 align="center">Hi 👋, I'm Jonatan Ochoa</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h1 align="center">Hola👋, mi nombre es Jonatan Ochoa</h1>
+<h3 align="center">Me apasiona la tecnología, estar informado en las tendencias que se utilizan en el desarrollo de sitios web. Soy Frontend Developer de Córdoba, Argentina</h3>
 
 ---
 
-### Hi Developers!!💚 Soy ``Jonatan``, estudiante Full Stack en [Henry](https://www.soyhenry.com)
+### 💚 ``Actualmente``, me estoy capacitando como Full Stack en [Henry](https://www.soyhenry.com)
 
 ---
 
