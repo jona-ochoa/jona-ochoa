@@ -1,4 +1,6 @@
-<h3 align="center">¡Hola👋 a todos! Soy Jonatan Ochoa, un apasionado del desarrollo web que ha estado en un emocionante viaje de aprendizaje en los últimos dos años. Descubrí la programación y desde entonces mi vida ha dado un giro de 180 grados. Permíteme compartir contigo cómo he pasado de ser un principiante a convertirme en un desarrollador completo, dominando HTML, CSS, JavaScript, React, Node y SQL/PostgreSQL.
+<div align="center">
+ <h1>¡Hola👋 a todos! Soy Jonatan Ochoa</h1> 
+Un apasionado del desarrollo web que ha estado en continuo aprendizaje en los últimos dos años. Descubrí la programación y desde entonces mi vida ha dado un giro de 180 grados. Permíteme compartir mi crecimiento para convertirme en un desarrollador completo, dominando HTML, CSS, JavaScript, React, Node y SQL/PostgreSQL.
 
 Imagina crear algo desde cero, darle vida con interactividad y hacerlo visualmente atractivo. Eso es lo que me cautivó al comenzar con HTML y CSS. Rápidamente, entendí que la programación no solo es un lenguaje, sino una forma de expresión creativa.
 
@@ -8,9 +10,9 @@ Pero no me detuve allí. Me sumergí en el fascinante mundo de React, una biblio
 
 No quería limitarme solo al frontend, así que me aventuré en el backend con Node.js. Esto me permitió crear servidores web, manejar solicitudes y respuestas, y conectar mis aplicaciones con bases de datos. Ahora puedo construir aplicaciones web completas de principio a fin.
 
-En resumen, he estado en un viaje increíblemente emocionante en el que he transformado mi mundo con código. Mi pasión por la programación ha crecido exponencialmente y estoy emocionado de seguir aprendiendo y enfrentando nuevos desafíos.</h3>
+Mi pasión por la programación ha crecido exponencialmente y estoy emocionado de seguir aprendiendo y enfrentando nuevos desafíos.</div>
 
-###  Lógica de Programación
+###  Módulo 1 Lógica de Programación
 
 <div align="left">
 
@@ -25,7 +27,7 @@ En resumen, he estado en un viaje increíblemente emocionante en el que he trans
 
 </div >
 
-### Modulo 2 Front End
+### Módulo 2 Front End
 
 <div align="left">
  
@@ -46,7 +48,7 @@ En resumen, he estado en un viaje increíblemente emocionante en el que he trans
 </div >
 
  
-### Modulo 3 Back End
+### Módulo 3 Back End
 
 <div align="left">
  
@@ -59,7 +61,7 @@ En resumen, he estado en un viaje increíblemente emocionante en el que he trans
 -  Testing
 </div>
  
- ### Modulo 3 DATABASE
+ ### Módulo 4 DATABASE
 
 <div align="left">
  
