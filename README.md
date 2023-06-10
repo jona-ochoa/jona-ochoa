@@ -1,13 +1,14 @@
----
+<h3 align="center">¡Hola👋 a todos! Soy Jonatan Ochoa, un apasionado del desarrollo web que ha estado en un emocionante viaje de aprendizaje en los últimos dos años. Descubrí la programación y desde entonces mi vida ha dado un giro de 180 grados. Permíteme compartir contigo cómo he pasado de ser un principiante a convertirme en un desarrollador completo, dominando HTML, CSS, JavaScript, React, Node y SQL/PostgreSQL.
 
-<h1 align="center">Hola👋, mi nombre es Jonatan Ochoa</h1>
-<h3 align="center">Me apasiona la tecnología, estar informado en las tendencias que se utilizan en el desarrollo de sitios web. Soy Frontend Developer de Córdoba, Argentina</h3>
+Imagina crear algo desde cero, darle vida con interactividad y hacerlo visualmente atractivo. Eso es lo que me cautivó al comenzar con HTML y CSS. Rápidamente, entendí que la programación no solo es un lenguaje, sino una forma de expresión creativa.
 
----
+Luego llegó el momento de desatar mi potencial con JavaScript, donde descubrí el poder de agregar interactividad y dinamismo a mis proyectos. ¡Aquí es donde la magia sucede!
 
-### 💚 ``Actualmente``, me estoy capacitando como Full Stack en [Henry](https://www.soyhenry.com)
+Pero no me detuve allí. Me sumergí en el fascinante mundo de React, una biblioteca de JavaScript que revolucionó mi forma de crear interfaces de usuario. Aprendí a dividir mis aplicaciones en componentes reutilizables y a trabajar de manera más eficiente.
 
----
+No quería limitarme solo al frontend, así que me aventuré en el backend con Node.js. Esto me permitió crear servidores web, manejar solicitudes y respuestas, y conectar mis aplicaciones con bases de datos. Ahora puedo construir aplicaciones web completas de principio a fin.
+
+En resumen, he estado en un viaje increíblemente emocionante en el que he transformado mi mundo con código. Mi pasión por la programación ha crecido exponencialmente y estoy emocionado de seguir aprendiendo y enfrentando nuevos desafíos.</h3>
 
 ###  Lógica de Programación
 
@@ -41,9 +42,7 @@
 -  Redux 
 -  React Redux 
 -  React Hooks
--  Proyecto Integrador de [Rick & Morty](http://rickandmorty-jona.vercel.app)
-<!--  [![Title](Image URL)](Link URL) -->
-  [![Rick and Morty](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2PNgriWT5_Uj7CFmvanxcpBMx_JZn976wNKXxYsgV5A&s)](http://rickandmorty-jona.vercel.app)
+
 </div >
 
  
@@ -60,9 +59,21 @@
 -  Testing
 </div>
  
- ```
-  ...Continuara 
- ```
+ ### Modulo 3 DATABASE
+
+<div align="left">
+ 
+-  DBMS "Database Management System" (Sistema de Gestión de Bases de Datos)
+-  SQL POSTGRES
+-  ORM-I
+-  ORM-II
+</div>
+
+ 
+
+-  Proyecto Integrador de [Rick & Morty](http://rickandmorty-jona.vercel.app)
+<!--  [![Title](Image URL)](Link URL) -->
+  [![Rick and Morty](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2PNgriWT5_Uj7CFmvanxcpBMx_JZn976wNKXxYsgV5A&s)](http://rickandmorty-jona.vercel.app)
 
 ---
 <br />
