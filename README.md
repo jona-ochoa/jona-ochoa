@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jonatan Ochoa</h1>
-<h3 align="center">A passionate Front-end Javascript Developer from Argentina</h3>
-<h6 align="center">Currently training as a fullstack at the HENRY academy</h6>
+<h3 align="center">A passionate Web Developer from Córdoba, Argentina</h3>
+<h6 align="center">Currently training as a Full Stack Web Developer at the HENRY academy</h6>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Javascript and Node.JS**
 
 - 👨‍💻 All of my projects are available at [https://jonaochoa.vercel.app](https://jonaochoa.vercel.app)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React.JS**
 
 - 📫 How to reach me **jonatan.c.ochoa@gmail.com**
 
