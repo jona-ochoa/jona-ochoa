@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jonatan Ochoa</h1>
 <h3 align="center">A passionate Web Developer from Córdoba, Argentina</h3>
 <h6 align="center">Currently training as a Full Stack Web Developer at the HENRY academy</h6>
+<h6 align="center">¡Bienvenidos a todos! Soy full stack con inclinación al front-end con stack MERN y experiencia en bases de datos relacionales y no relacionales. Mi background estaba orientado a la atención al cliente donde sumé experiencia para trabajar por objetivos. Si desean pueden dejarme un feedback.</h6>
 
-- 🌱 I’m currently learning **React, Javascript and Node.JS**
+- 🌱 I’m currently learning **React, Javascript, Redux, Express, Postgres SQL, Sequelize and Node.JS**
 
 - 👨‍💻 All of my projects are available at [https://jonaochoa.vercel.app](https://jonaochoa.vercel.app)
 
