@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonatan Ochoa</h1>
-<h3 align="center">A passionate Web Developer from Córdoba, Argentina</h3>
-<h6 align="center">Currently training as a Full Stack Web Developer at the HENRY academy</h6>
-<h6 align="center">¡Bienvenidos a todos! Soy full stack con inclinación al front-end con stack MERN y experiencia en bases de datos relacionales y no relacionales. Mi background estaba orientado a la atención al cliente donde sumé experiencia para trabajar por objetivos. Si desean pueden dejarme un feedback.</h6>
+<h3 align="center">A passionate Web Developer from Jesús María, Córdoba, Argentina</h3>
+<h6 align="center">Graduated as Full Stack Web Developer at the HENRY academy</h6>
 
 - 🌱**Currently applying for Front-end web developer positions**. 
 
