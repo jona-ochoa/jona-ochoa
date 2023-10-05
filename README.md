@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer from Jesús María, Córdoba, Argentina</h3>
 <h6 align="center">Graduated as Full Stack Web Developer at the HENRY academy</h6>
 
-- 🌱**Currently applying for Front-end web developer positions**. 
+- 🌱**Currently applying for Full Stack Web Developer positions**. 
 
 - 👨‍💻 All of my projects are available at [https://jonaochoa.vercel.app](https://jonaochoa.vercel.app)
 
