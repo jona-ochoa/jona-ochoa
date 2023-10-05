@@ -4,7 +4,7 @@
 
 - 🌱**Currently applying for Full Stack Web Developer positions**. 
 
-- 👨‍💻 All of my projects are available at [https://jonaochoa.vercel.app](https://jonaochoa.vercel.app)
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://jonaochoa.vercel.app)**
 
 - 💬 Ask me about **React JS, Redux, Next v13, Javascript, MongoDB, PostgresSQL**
 
