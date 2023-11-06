@@ -1,4 +1,6 @@
-<img align="center" src="https://drive.google.com/file/d/1L0y4fWidr446DjTcgdf5ribtKzjlkl5V/view?usp=sharing" width="200" style="max-width: 100%" />
+<p align="left">
+  <img align="center" src="https://drive.google.com/file/d/1L0y4fWidr446DjTcgdf5ribtKzjlkl5V/view?usp=sharing" width="200" style="max-width: 100%" />
+</p>
 <br/>
 <br/>
 <h1 align="center">Hi 👋, Soy Jonatan Ochoa</h1>
@@ -7,9 +9,9 @@
 
 - 🌱**Currently applying for Full Stack Web Developer positions**. 
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://jonaochoa.vercel.app)**
+- 👨‍💻 All of my projects are available at **[Visita mi Portafolio](https://jonaochoa.vercel.app)**
 
-- 💬 Ask me about **React JS, Redux, Next v13, Javascript, MongoDB, PostgresSQL**
+- 💬 Ask me about **React JS, Redux, Redux-toolkit, Next v13, Javascript, Typescript, MongoDB, PostgresSQL, Sequelize, Mongoose**
 
 - 📫 How to reach me **jonatan.c.ochoa@gmail.com**
 
