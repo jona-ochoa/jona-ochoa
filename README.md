@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1L0y4fWidr446DjTcgdf5ribtKzjlkl5V/view?usp=sharing" width="100%" bordderRadius="30% 70% 70% 30% / 30% 30% 70% 70%" height="100%" />
+<img src="https://drive.google.com/file/d/1L0y4fWidr446DjTcgdf5ribtKzjlkl5V/view?usp=sharing" width="200px" bordderRadius="30% 70% 70% 30% / 30% 30% 70% 70%" height="200px" />
 <br/>
 <br/>
 <h1 align="center">Hi 👋, Soy Jonatan Ochoa</h1>
