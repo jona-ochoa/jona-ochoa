@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jonatan Ochoa</h1>
-<h3 align="center">A passionate Web Developer from Jesús María, Córdoba, Argentina</h3>
-<h6 align="center">Graduated as Full Stack Web Developer at the HENRY academy</h6>
+<img src="https://drive.google.com/file/d/1L0y4fWidr446DjTcgdf5ribtKzjlkl5V/view?usp=sharing" width="100%" bordderRadius="30% 70% 70% 30% / 30% 30% 70% 70%" height="100%" />
+<br/>
+<br/>
+<h1 align="center">Hi 👋, Soy Jonatan Ochoa</h1>
+<h3 align="center">Soy Desarrollador Javascript Full Stack con 2 años de experiencia.</h3>
+<h3 align="center">Revisa mi perfil 👇.</h3>
 
 - 🌱**Currently applying for Full Stack Web Developer positions**. 
 
