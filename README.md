@@ -1,5 +1,5 @@
-<img src="https://drive.google.com/file/d/1L0y4fWidr446DjTcgdf5ribtKzjlkl5V/view?usp=sharing" alt="Imagen Jonatan Ochoa Desarrollador Full Stack" style="width: 200px; border: 2px solid red;">
-![Mi imagen]("https://drive.google.com/file/d/1L0y4fWidr446DjTcgdf5ribtKzjlkl5V/view?usp=sharing")
+<img src="https://jonaochoa.vercel.app/static/media/conpache.96ceb1c0b3ab661f7b29.jpeg" alt="Imagen Jonatan Ochoa Desarrollador Full Stack" style="width: 200px; border: 2px solid red;">
+![Mi imagen](https://jonaochoa.vercel.app/static/media/conpache.96ceb1c0b3ab661f7b29.jpeg)
 <h1 align="center">Hi 👋, Soy Jonatan Ochoa</h1>
 <p align="center">Soy Desarrollador Javascript Full Stack con 2 años de experiencia.</p>
 <p align="center">Revisa mi perfil 👇.</p>
