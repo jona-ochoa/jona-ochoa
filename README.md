@@ -1,7 +1,8 @@
-<img align="center" src="https://drive.google.com/file/d/1L0y4fWidr446DjTcgdf5ribtKzjlkl5V/view?usp=sharing" width="200" style="max-width: 100%">
+
+![Mi imagen](https://drive.google.com/file/d/1L0y4fWidr446DjTcgdf5ribtKzjlkl5V/view?usp=sharing)
 <h1 align="center">Hi 👋, Soy Jonatan Ochoa</h1>
-<h3 align="center">Soy Desarrollador Javascript Full Stack con 2 años de experiencia.</h3>
-<h3 align="center">Revisa mi perfil 👇.</h3>
+<p align="center">Soy Desarrollador Javascript Full Stack con 2 años de experiencia.</p>
+<p align="center">Revisa mi perfil 👇.</p>
 
 - 🌱**Currently applying for Full Stack Web Developer positions**. 
 
