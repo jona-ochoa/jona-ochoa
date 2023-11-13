@@ -5,19 +5,19 @@
 <p align="center">Soy Desarrollador Javascript Full Stack con 2 años de experiencia.</p>
 <p align="center">Revisa mi perfil 👇.</p>
 
-- 🌱**Currently applying for Full Stack Web Developer positions**. 
+- 🌱**Actualmente solicitando puestos de Desarrollador Web Full Stack**. 
 
-- 👨‍💻 All of my projects are available at **[Visita mi Portafolio](https://jonaochoa.vercel.app)**
+- 👨‍💻 Todos mis proyectos están disponibles en **[Mi Portafolio](https://jonaochoa.vercel.app)**
 
-- 💬 Ask me about **React JS, Redux, Redux-toolkit, Next v13, Javascript, Typescript, MongoDB, PostgresSQL, Sequelize, Mongoose**
+- 💬 Pregúntame sobre **React JS, Redux, Redux-toolkit, Next v13, Javascript, Typescript, MongoDB, PostgresSQL, Sequelize, Mongoose**
 
-- 📫 How to reach me **jonatan.c.ochoa@gmail.com**
+- 📫 Contáctame **jonatan.c.ochoa@gmail.com**
 
 - LinkedIn: **[Jonatan Ochoa](https://www.linkedin.com/in/jonaochoa/)**
 
-- Certified FullStack Developer: **[Full Stack Web Developer](https://drive.google.com/file/d/1ZbWW3_s76hzi9tTEJsn1jH0PXkr6JCkw/view?usp=sharing)**
+- FullStack Developer Certificado: **[Full Stack Web Developer](https://drive.google.com/file/d/1ZbWW3_s76hzi9tTEJsn1jH0PXkr6JCkw/view?usp=sharing)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo en:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jonaochoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonaochoa" height="30" width="40" /></a>
 <a href="https://instagram.com/jonanochoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jonaochoaok" height="30" width="40" /></a>
