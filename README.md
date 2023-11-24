@@ -1,7 +1,6 @@
-![Jonatan Ochoa](https://jonaochoa.vercel.app/static/media/jochoa-removebg-preview.04c1d9576ca15f480b37.png)
-
-
-
+<a href="https://jonaochoa.vercel.app" target="_blank" rel="noreferrer">
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg](https://jonaochoa.vercel.app/static/media/jochoa-removebg-preview.04c1d9576ca15f480b37.png)" alt="typescript" width="100" height="100"/>
+</a>
 
 <h1 align="center">Hi 👋, Soy Jonatan Ochoa</h1>
 <p align="center">Soy Desarrollador Javascript Full Stack con 2 años de experiencia.</p>
