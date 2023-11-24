@@ -1,4 +1,4 @@
-![Jonatan Ochoa](https://jonaochoa.vercel.app/static/media/conpache.96ceb1c0b3ab661f7b29.jpeg)
+![Jonatan Ochoa]('https://jonaochoa.vercel.app/static/media/jochoa-removebg-preview.04c1d9576ca15f480b37.png')
 
 <h1 align="center">Hi 👋, Soy Jonatan Ochoa</h1>
 <p align="center">Soy Desarrollador Javascript Full Stack con 2 años de experiencia.</p>
