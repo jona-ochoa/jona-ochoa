@@ -1,10 +1,7 @@
-<a align="center" href="https://jonaochoa.vercel.app" target="_blank" rel="noreferrer">
-  <img src="https://jonaochoa.vercel.app/static/media/jochoa-removebg-preview.04c1d9576ca15f480b37.png" alt="Jona Ochoa" width="100" height="100"/>
-</a>
 
-<h1 align="center">Hi 👋, Soy Jonatan Ochoa</h1>
-<p align="center">Soy Desarrollador Javascript Full Stack con 2 años de experiencia.</p>
-<p align="center">Revisa mi perfil 👇.</p>
+<h1 align="center">Hola 👋, Soy Jonatan Ochoa</h1>
+<p align="center">Soy Desarrollador Full Stack con 2 años de experiencia.</p>
+<p align="center">Revisa mi perfil y conectemos👇.</p>
 
 - 🌱**Actualmente solicitando puestos de Desarrollador Web Full Stack**. 
 
