@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola 👋, Soy Jonatan Ochoa</h1>
+<h1 align="center">Hola 👋, Soy Jonatan Ochoa de Jesús María Cördoba.</h1>
 <p align="center">Soy Desarrollador Full Stack con 2 años de experiencia.</p>
 <p align="center">Revisa mi perfil y conectemos👇.</p>
 
@@ -17,9 +17,9 @@
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS, Next v13, Redux-toolkit, Styled-components
+**Fronend:** React, Redux, TailwindCSS, Next v13, Redux-toolkit, Styled-components
 
-**Server:** Node, Express, Sequelize, Mongoose
+**Backend:** Node, Express, Sequelize, Mongoose
 
 **Database** Mongo, Firebase, PostgresSQL, MySQL
 
